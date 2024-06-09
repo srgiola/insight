@@ -1,0 +1,17 @@
+{
+  "name": "onmessage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "onMessage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-apigatewaymanagementapi": "^3.592.0",
+    "@aws-sdk/client-dynamodb": "^3.592.0",
+    "openai": "^4.49.1"
+  }
+}
